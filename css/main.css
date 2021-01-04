@@ -22,7 +22,7 @@ body {
     text-align: center;
     border: 2px solid lightcyan;
     padding: 2em;
-    box-shadow: 2px 1px 1px mediumaquamarine;
+    box-shadow: 2px 1px 1px black;
 }
 
 .greeting h1 {
@@ -34,12 +34,12 @@ body {
 
 .greeting p {
     font-family: 'Raleway', sans-serif;
-    color: mediumaquamarine;
+    color: lightcyan;
     width: 100%;
 }
 
 .highlight {
-    color: mediumaquamarine;
+    color: lightcyan;
 }
 
 @media screen and (min-width: 760px) {
